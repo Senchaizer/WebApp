@@ -94,6 +94,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     setClock('.timer', deadline);
 
+<<<<<<< HEAD
     // Modal
 
     const modalTrigger = document.querySelectorAll('[data-modal'),
@@ -285,4 +286,6 @@ window.addEventListener('DOMContentLoaded', function() {
             closeModal();
         }, 4000);
     }
+=======
+>>>>>>> eaf559d2825933a258d376f3337178fda75e1c75
 });
